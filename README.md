@@ -37,13 +37,12 @@ Python Twitter Bot
 
 8.Use twitterbot_retweet.py file for a Twitter bot which retweet tweets based on particular hastag (script provided here use #python ),like tweets and follow the user who tweeted it .Set your desired Bot settings such as QUERY,LIKE,FOLLOW in config.py file  To run twitterbot_retweet.py ,use this command :
 
-$ python twitterbot_retweet.py
+  $ python twitterbot_retweet.py
 
 
 9.You can use any desired hastag(such as #javascipt ) .Just edit hastag '#python' in config.py file with whatever you want.
 
-
-1.  You can also edit code if you do not want your bot to follow  users or you do not want your bot  to like tweets.
-
+10.You can also edit code if you do not want your bot to follow  users or you do not want your bot  to like tweets.
 
 11.You can also deploy Twitter bot on online based servers if you want to run the bot 24 hours continously.Take care of sleep/delay if you run bot the whole day.You should try to use large sleep time so that your account does not get banned.
+
