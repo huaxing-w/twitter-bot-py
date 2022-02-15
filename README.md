@@ -19,8 +19,6 @@ Python Twitter Bot
 
  $ python twitterbot_text.py 
  
- ![Twitter Text Bot Screenshot](https://github.com/gauravssnl/Python-Twitter-Bot/blob/master/twitter%20text%20bot.png)
-
 
 
 6.You can also use any file instead of sample.txt . To do that,you need to open twitterbot_text.py file and edit this line my_file=open('sample.txt','r') and enter your desired filename instead of 'sample.txt' .
@@ -42,14 +40,10 @@ Python Twitter Bot
 $ python twitterbot_retweet.py
 
 
-![Twitter Retweet Bot](https://github.com/gauravssnl/Python-Twitter-Bot/blob/master/twitter%20retweet%20bot.png)
-
-
-
 9.You can use any desired hastag(such as #javascipt ) .Just edit hastag '#python' in config.py file with whatever you want.
 
 
-10. You can also edit code if you do not want your bot to follow  users or you do not want your bot  to like tweets.
+1.  You can also edit code if you do not want your bot to follow  users or you do not want your bot  to like tweets.
 
 
 11.You can also deploy Twitter bot on online based servers if you want to run the bot 24 hours continously.Take care of sleep/delay if you run bot the whole day.You should try to use large sleep time so that your account does not get banned.
